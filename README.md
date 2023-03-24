@@ -3,7 +3,7 @@
 This repository is only made for study purposes for 100 Days of code conducted by IEEE MACE CS SB (My first repo LMAO)
 Contains total of 5 programs
 
-QUESTIONS :-
+WEEK 1 QUESTIONS :-
 
 Q1, You are required to replace every letter with its position in the alphabet, given a string. If anything in the text isn't a letter, ignore it and don't return it. "a" = 1, "b" = 2, etc.
 Q2. Create a FUNCTION that retruns the square of a number given by the user.
