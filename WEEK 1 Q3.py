@@ -4,9 +4,6 @@ if type(nums)==int:
     list1.append(nums)
 else:
     for i in nums:
-        if str(i).isdigit():
-            number=int(i)
-            list1.append(number)
-        else:
-            continue
+        number=int(i)
+        list1.append(number)
 print(list1)
